@@ -1,6 +1,7 @@
 [![NPM version](https://badge.fury.io/js/%40dizmo%2Ftypes.svg)](https://npmjs.org/package/@dizmo/types)
 [![Build Status](https://travis-ci.org/dizmo/types.svg?branch=master)](https://travis-ci.org/dizmo/types)
 [![Coverage Status](https://coveralls.io/repos/github/dizmo/types/badge.svg?branch=master)](https://coveralls.io/github/dizmo/types?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdizmo%2Ftypes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdizmo%2Ftypes?ref=badge_shield)
 
 # @dizmo/types
 
@@ -129,3 +130,7 @@ npm publish --access=public
 ## Copyright
 
  © 2019 [dizmo AG](http://dizmo.com/), Switzerland
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdizmo%2Ftypes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdizmo%2Ftypes?ref=badge_large)
